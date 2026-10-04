@@ -1,19 +1,19 @@
 {
-    "version": "0.10.0",
+    "version": "0.10.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zafnz/jqweb/releases/download/v0.10.0/jqweb_0.10.0_windows_amd64.zip",
+            "url": "https://github.com/zafnz/jqweb/releases/download/v0.10.1/jqweb_0.10.1_windows_amd64.zip",
             "bin": [
                 "jqweb.exe"
             ],
-            "hash": "a81d2133f68ab02af8b2fd8610230bd0289d7a839e51e27734a1173b1ae01703"
+            "hash": "5426b393486976907073313c31fc986653ce5e950e3738d3070a3ffd9b7c2d4e"
         },
         "arm64": {
-            "url": "https://github.com/zafnz/jqweb/releases/download/v0.10.0/jqweb_0.10.0_windows_arm64.zip",
+            "url": "https://github.com/zafnz/jqweb/releases/download/v0.10.1/jqweb_0.10.1_windows_arm64.zip",
             "bin": [
                 "jqweb.exe"
             ],
-            "hash": "f1692e03cf6b02a9b6ebbdd30d89083f03dd08c8cfd74ce6e8d11f39872b9ce0"
+            "hash": "df1a9ec771cc30249a9b675688ba2efbe66c26224d4aa576f0d6d29b782cf013"
         }
     },
     "homepage": "https://github.com/zafnz/jqweb",
